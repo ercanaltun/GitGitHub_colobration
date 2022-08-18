@@ -36,6 +36,8 @@ public class LambdaMethodlar {
 
 
         //Misafir Hocam
+
+        //knnoknpınuınnınpın
         
         
         
